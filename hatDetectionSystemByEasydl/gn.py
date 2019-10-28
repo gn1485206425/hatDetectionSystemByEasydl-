@@ -1,3 +1,5 @@
+#调试文件，无需采用
+
 import cv2
 res_content2={'location': {'height': 179, 'left': 84, 'top': 130, 'width': 203}}
 cimg = cv2.imread('D:/appTh/0001.jpg')
