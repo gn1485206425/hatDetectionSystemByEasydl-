@@ -1,0 +1,2 @@
+# hatDetectionSystemByEasydl-
+实验系统，pyqt下调用easydl上团队账户训练好的模型
